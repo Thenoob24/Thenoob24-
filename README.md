@@ -5,38 +5,168 @@ Passionné(e) par le développement web et logiciel, je maîtrise plusieurs tech
 ## 🛠️ Compétences Techniques
 
 ### Développement Web
-![HTML](https://img.shields.io/badge/HTML-100%25-orange)
-![CSS](https://img.shields.io/badge/CSS-80%25-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow)
-![React](https://img.shields.io/badge/React-50%25-61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-50%25-4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-60%25-000000)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-60%25-38B2AC)
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></td>
+    <td>HTML</td>
+    <td>
+      <code>██████████████████████   100%</code>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></td>
+    <td>CSS</td>
+    <td>
+      <code>████████████████████░░   80%</code>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></td>
+    <td>JavaScript</td>
+    <td>
+      <code>████████████████████░░   80%</code>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/></td>
+    <td>Next.js</td>
+    <td>
+      <code>███████████████░░░░░░░   60%</code>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/></td>
+    <td>TailwindCSS</td>
+    <td>
+      <code>███████████████░░░░░░░   60%</code>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></td>
+    <td>React</td>
+    <td>
+      <code>████████████░░░░░░░░░░   50%</code>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/></td>
+    <td>Vue.js</td>
+    <td>
+      <code>████████████░░░░░░░░░░   50%</code>
+    </td>
+  </tr>
+</table>
 
 ### Développement Logiciel
-![Java](https://img.shields.io/badge/Java-75%25-007396)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-60%25-6DB33F)
-![Python](https://img.shields.io/badge/Python-40%25-3776AB)
-![C](https://img.shields.io/badge/C-40%25-A8B9CC)
-![C++](https://img.shields.io/badge/C++-40%25-00599C)
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></td>
+    <td>Java</td>
+    <td>
+      <code>██████████████████░░░░   75%</code>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/></td>
+    <td>Spring Boot</td>
+    <td>
+      <code>███████████████░░░░░░░   60%</code>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></td>
+    <td>Python</td>
+    <td>
+      <code>██████████░░░░░░░░░░░░   40%</code>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/></td>
+    <td>C</td>
+    <td>
+      <code>██████████░░░░░░░░░░░░   40%</code>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></td>
+    <td>C++</td>
+    <td>
+      <code>██████████░░░░░░░░░░░░   40%</code>
+    </td>
+  </tr>
+</table>
 
 ### Bases de Données
-![SQL](https://img.shields.io/badge/SQL-60%25-4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-40%25-336791)
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/></td>
+    <td>SQL</td>
+    <td>
+      <code>███████████████░░░░░░░   60%</code>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/></td>
+    <td>PostgreSQL</td>
+    <td>
+      <code>██████████░░░░░░░░░░░░   40%</code>
+    </td>
+  </tr>
+</table>
 
 ### Systèmes & Déploiement
-![AS400](https://img.shields.io/badge/AS400-40%25-025A9A)
-![Docker](https://img.shields.io/badge/Docker-60%25-2496ED)
-![Déploiement Serveur](https://img.shields.io/badge/Déploiement_Serveur-50%25-009688)
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/ibm.png" width="40" height="40"/></td>
+    <td>AS400</td>
+    <td>
+      <code>██████████░░░░░░░░░░░░   40%</code>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/></td>
+    <td>Docker</td>
+    <td>
+      <code>███████████████░░░░░░░   60%</code>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/></td>
+    <td>Déploiement Serveur</td>
+    <td>
+      <code>████████████░░░░░░░░░░   50%</code>
+    </td>
+  </tr>
+</table>
 
 ## 📊 Résumé des Compétences
 
-```
-Frontend   ███████████████████░░░   75%
-Backend    ███████████████░░░░░░░   60%
-Database   ██████████░░░░░░░░░░░░   50%
-DevOps     ███████████░░░░░░░░░░░   55%
-```
+<table>
+  <tr>
+    <td>Frontend</td>
+    <td>
+      <code>███████████████████░░░   75%</code>
+    </td>
+  </tr>
+  <tr>
+    <td>Backend</td>
+    <td>
+      <code>███████████████░░░░░░░   60%</code>
+    </td>
+  </tr>
+  <tr>
+    <td>Database</td>
+    <td>
+      <code>██████████░░░░░░░░░░░░   50%</code>
+    </td>
+  </tr>
+  <tr>
+    <td>DevOps</td>
+    <td>
+      <code>███████████░░░░░░░░░░░   55%</code>
+    </td>
+  </tr>
+</table>
 
 ## 🌱 Actuellement en apprentissage
 - Approfondissement de React et Next.js
