@@ -35,7 +35,7 @@ Passionné(e) par le développement web et logiciel, je maîtrise plusieurs tech
     </td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" height="40"/></td>
     <td>TailwindCSS</td>
     <td>
       <code>███████████████░░░░░░░   60%</code>
